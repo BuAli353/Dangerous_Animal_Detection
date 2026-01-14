@@ -132,8 +132,10 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ---
 
+<img width="1197" height="836" alt="Project_image (Edit)" src="https://github.com/user-attachments/assets/c8b171f8-3cd5-4468-b839-1abb4c027f7b" />
+
 <div align="center">
     <i>Developed with ❤️ for Wildlife Safety & Education</i>
 </div>
-<img width="1197" height="836" alt="Project_image (Edit)" src="https://github.com/user-attachments/assets/c8b171f8-3cd5-4468-b839-1abb4c027f7b" />
+
 
