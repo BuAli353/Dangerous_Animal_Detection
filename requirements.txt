@@ -1,0 +1,6 @@
+gradio
+ultralytics
+pandas
+matplotlib
+opencv-python-headless
+pillow
